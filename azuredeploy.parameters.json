@@ -3,13 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "saumilshah"
+      "value": "demousr"
     },
     "adminPassword": {
-      "value": "Ansible@1234"
-    },
-    "dnsLabelPrefix": {
-      "value": "dnssaumil"
+      "value": "Azure@123"
     }
   }
 }
